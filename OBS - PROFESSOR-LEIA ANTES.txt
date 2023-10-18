@@ -1,0 +1,4 @@
+Professor, tive que apagar uma pasta de arquivos para não ultrapassar o limite de 5Mb para conseguir anexar a pasta zipada no AVA. A minha pasta zipada estava dando 7MB.
+
+A pasta que eu apaguei foi a lib dentro de TypeScript conforme caminho abaixo:
+C:\Desafio - Vacina.zip\Desafio - Vacina\node_modules\typescript\lib
